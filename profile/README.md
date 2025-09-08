@@ -1,6 +1,6 @@
 # ABCD2024-TEAM
 
-Programming Team
+Programming Projects
 
 ## Projects Created
 
